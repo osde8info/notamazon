@@ -62,13 +62,6 @@ export default function Home() {
           not amazon SCOTLAND
         </h2>
 
-	  https://twitter.com/EdinBookshop
-
-
-
-
-
-
         <div className={styles.grid}>
           <a href="https://twitter.com/EdinBookshop" className={styles.card}>
             <h3>not amazon edin bookshop</h3>
