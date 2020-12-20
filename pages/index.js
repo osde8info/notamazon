@@ -29,7 +29,7 @@ export default function Home() {
         </div>
 
         <h2 className={styles.title}>
-          not amazon UK
+          not amazon ENGLAND
         </h2>
 
         <div className={styles.grid}>
@@ -55,6 +55,36 @@ export default function Home() {
 
           <a href="https://www.susieeatstheseasons.com/" className={styles.card}>
             <h3>not amazon susie eats the seasons</h3>
+          </a>
+        </div>
+
+        <h2 className={styles.title}>
+          not amazon SCOTLAND
+        </h2>
+
+        <div className={styles.grid}>
+          <a href="https://twitter.com/EdinBookshop" className={styles.card}>
+            <h3>not amazon edin bookshop</h3>
+          </a>
+
+          <a href="https://twitter.com/GoldenHareBooks" className={styles.card}>
+            <h3>not amazon golden hare books</h3>
+          </a>
+
+          <a href="https://twitter.com/Lighthousebks" className={styles.card}>
+            <h3>not amazon light house books</h3>
+          </a>
+
+          <a href="https://twitter.com/PortyBooks" className={styles.card}>
+            <h3>not amazon porty books</h3>
+          </a>
+
+          <a href="https://twitter.com/ToppingsEdin" className={styles.card}>
+            <h3>not amazon toppings</h3>
+          </a>
+
+          <a href="https://twitter.com/tweetwronger" className={styles.card}>
+            <h3>not amazon typewronger</h3>
           </a>
         </div>
 
