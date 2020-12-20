@@ -29,7 +29,21 @@ export default function Home() {
         </div>
 
         <h2 className={styles.title}>
-          not amazon ENGLAND
+          not amazon ENGLAND (Kent)
+        </h2>
+
+        <div className={styles.grid}>
+          <a href="https://www.beeenergyhoney.com" className={styles.card}>
+            <h3>not amazon bee energy honey</h3>
+          </a>
+
+          <a href="https://foodsmart.uk/" className={styles.card}>
+            <h3>not amazon food smart</h3>
+          </a>
+        </div>
+
+        <h2 className={styles.title}>
+          not amazon ENGLAND (Surrey)
         </h2>
 
         <div className={styles.grid}>
@@ -58,7 +72,7 @@ export default function Home() {
           </a>
         </div>
 
-        <h2 className={styles.title}>
+    <h2 className={styles.title}>
           not amazon SCOTLAND
         </h2>
 
